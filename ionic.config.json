@@ -1,0 +1,7 @@
+{
+  "name": "Easynotes",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
